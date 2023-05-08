@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "290408172811",
+    "project_id": "map-translations",
+    "storage_bucket": "map-translations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290408172811:android:879a05fbc1b35fcbd9e60e",
+        "android_client_info": {
+          "package_name": "com.example.map_translations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290408172811-gmqfku8c5j2176ou3raa3btih7qun0v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKieriODvcm0t9tPI-YWvzA8_Mn84ya8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290408172811-gmqfku8c5j2176ou3raa3btih7qun0v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290408172811-3p5b4etinleft672rp70m09cn3h1gqcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapTranslations"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
